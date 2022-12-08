@@ -8,15 +8,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius in l
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aut commodi debitis ipsam nobis perspiciatis sequi, sint unde vitae.
 
 ===========================================================================================
-### MY SKILS:
+### SKILS:
 ===========================================================================================
-### MY CODE:
+### CODE:
 #### Chessboard
 Write a program that creates a string that represents an 8×8 grid, using newline characters to separate lines. At each position of the grid there is either a space or a "#" character. The characters should form a chessboard.
-'''
-
-let j;
-let size=10;
+``` let j;
+    let size=10;
 
 
 for( let i=1; i<=size; i++)
@@ -31,8 +29,7 @@ for( let i=1; i<=size; i++)
     }
     console.log(line);
       line+="\n";   
-}
-'''
+}```
 ===========================================================================================
 ### WORK EXPERIENCE:
 ===========================================================================================

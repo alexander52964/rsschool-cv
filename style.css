@@ -1,4 +1,21 @@
-hi{
-    color :yellowgreen;
-    font-size: large;
+h1 {
+    color :yellow;
+    font-size: 25px;
+}
+.titleName {
+      display: inline-block;
+      border: 2px;   
+      border-color: black;
+      width: 1400px;
+      height: 1400px;  
+      padding-left: 100px;  
+      padding-top: 500px ;   
+
+}
+body{
+    display: block;
+    background-color: blueviolet;
+    align-items: center;
+    border: 2px;
+    width: 700px;
 }

@@ -1,19 +1,33 @@
 # ALEXANDER GAVTIAN
-=====================================================================================
-### CONTACT INFORMATION:
-====================================================================================
-### ABOUT ME:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius in labore quidem, sequi suscipit! 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aut commodi debitis ipsam nobis perspiciatis sequi, sint unde vitae.
 
-===========================================================================================
-### SKILS:
-===========================================================================================
-### CODE:
+## Contacts
+* Email: free_alex_dom@yahoo.com
+* GitHub: alexander52964
+* Discord: AlexanderG#0773
+----------------------------------------------------------------------------
+
+## About Me
+I recently started learning web development. I want to take an Rsschool course to better understand web development processes and develop my basic skills in this area.
+
+----------------------------------------------------------------------------
+
+## Skills
+* Basic 
+    * Html 
+    * Css 
+    * js
+    * Git
+    * Figma
+
+----------------------------------------------------------------------------
+
+## Code
 #### Chessboard
-Write a program that creates a string that represents an 8×8 grid, using newline characters to separate lines. At each position of the grid there is either a space or a "#" character. The characters should form a chessboard.
-``` let j;
+>Write a program that creates a string that represents an 8×8 grid, using newline characters to separate lines. At each position of the grid there is either a space or a "#" character. The characters should form a chessboard.
+
+``` 
+    let j;
     let size=10;
 
 
@@ -29,11 +43,21 @@ for( let i=1; i<=size; i++)
     }
     console.log(line);
       line+="\n";   
-}```
-===========================================================================================
-### WORK EXPERIENCE:
-===========================================================================================
-### EDUCATION:
-=========================================================================================
-### LANGUAGES:
-English level ~ A2
+}
+```
+
+## Experience
+
+Hospitality Industry: Food & Beverage
+
+-----------------------------------------------------------------------------
+
+## Education
+* Courses:
+    * HTML Academy
+    * CS50 lectures
+
+----------------------------------------------------------------------------
+
+## English
+level A2
